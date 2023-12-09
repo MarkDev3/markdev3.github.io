@@ -41,3 +41,13 @@ iframe {
     height: 300px;
     padding-left: 50px;
 }
+
+@media (max-width: 768px) {
+    #H2-1,
+    #P-1,
+    #H2-2,
+    iframe {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+}
